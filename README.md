@@ -7,10 +7,9 @@ Bonett and Wright (2000), Sample size requirements for estimating ¨Pearson, Ken
 Psychometrika, 65(1), 23-2
 
 Code is called approximationOfnForR.m, tested with Matlab R2020b and results can be read in the command window, in the pdf file:
-tableNforCorr.pdf or below.
+tableNforCorr.pdf or below:
 
 Correlation rho    Min n for Pearson    Min n for Spearman
-    _______________    _________________    __________________
 
           0.1                 378                  379        
           0.2                  90                   92        
