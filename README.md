@@ -9,7 +9,7 @@ Psychometrika, 65(1), 23-2
 Code is called approximationOfnForR.m, tested with Matlab R2020b and results can be read in the command window, in the pdf file:
 tableNforCorr.pdf or below:
 
- Correlation rho       Min n for Pearson       Min n for Spearman
+  Correlation rho          Min n for Pearson         Min n for Spearman
 
           0.1                 378                  379        
           0.2                  90                   92        
