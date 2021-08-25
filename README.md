@@ -1,4 +1,4 @@
-# Min_sample_size_for_correlations
+# Min sample size for correlations
  
 This code calculates the sample size n necessary to obtain correlations whose confidence interval does not include 0, depending on
 correlation strength and correlation type, following equations from:
